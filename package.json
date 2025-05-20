@@ -1,0 +1,16 @@
+{
+  "name": "find-pet-back",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx watch ./main.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "tsx": "^4.19.4",
+    "@types/node": "^22.15.19"
+  }
+}
